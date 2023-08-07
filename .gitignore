@@ -1,0 +1,31 @@
+# Windows
+Thumbs.db
+
+# Gradle
+/.gradle
+/build
+
+# ForgeGradle
+/run
+
+# Forge
+/src/test
+
+# eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/eclipse
+/bin
+
+# intellij
+/out
+/.idea
+/*.ipr
+/*.iws
+/*.iml
+
+# Jars
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar

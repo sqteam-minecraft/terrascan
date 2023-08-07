@@ -1,0 +1,2 @@
+Version 0.0.001:
+1. Boilerplate workspace setup

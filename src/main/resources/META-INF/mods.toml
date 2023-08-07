@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+
+[[mods]]
+modId="terrascan"
+version="${file.jarVersion}"
+displayName="TerraScan"
+credits="Thanks goes to Notch, Mojang and Forge team"
+authors="sqcode, artyom_0906"
+description='''
+A mod that adds a way to look through the crust and survey ore locations.
+'''
+
+[[dependencies.terrascan]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.terrascan]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
