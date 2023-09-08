@@ -1,2 +1,8 @@
+Version 0.0.002:
+1. Added master registry
+2. Added item registry
+3. Added event handlers for both permanent ad runtime events
+4. Added a debug item with its test event
+
 Version 0.0.001:
 1. Boilerplate workspace setup
