@@ -1,9 +1,9 @@
-package sqteam.terrascan.registries;
+package org.sqteam.terrascan.registries;
 
 import net.minecraft.world.item.Item;
 import net.minecraftforge.registries.RegistryObject;
 
-import sqteam.terrascan.items.DebugItem;
+import org.sqteam.terrascan.items.DebugItem;
 
 @SuppressWarnings("unused")
 public class ItemRegistry

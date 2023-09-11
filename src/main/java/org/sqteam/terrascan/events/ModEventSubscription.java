@@ -1,6 +1,6 @@
-package sqteam.terrascan.events;
+package org.sqteam.terrascan.events;
 
-import sqteam.terrascan.util.WeakConsumer;
+import org.sqteam.terrascan.util.WeakConsumer;
 import net.minecraftforge.eventbus.api.Event;
 import net.minecraftforge.eventbus.api.EventPriority;
 import net.minecraftforge.eventbus.api.IEventBus;

@@ -1,14 +1,14 @@
-package sqteam.terrascan;
+package org.sqteam.terrascan;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
-import sqteam.terrascan.events.ModEvents;
-import sqteam.terrascan.events.ModPermanentEventHandler;
-import sqteam.terrascan.events.ModRuntimeEventHandler;
-import sqteam.terrascan.registries.MasterRegistry;
+import org.sqteam.terrascan.events.ModEvents;
+import org.sqteam.terrascan.events.ModPermanentEventHandler;
+import org.sqteam.terrascan.events.ModRuntimeEventHandler;
+import org.sqteam.terrascan.registries.MasterRegistry;
 
 @Mod(TerraScan.MODID)
 public class TerraScan

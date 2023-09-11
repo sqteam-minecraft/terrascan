@@ -1,4 +1,4 @@
-package sqteam.terrascan.items;
+package org.sqteam.terrascan.items;
 
 import net.minecraft.world.item.Item;
 

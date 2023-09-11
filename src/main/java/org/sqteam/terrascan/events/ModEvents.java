@@ -1,4 +1,4 @@
-package sqteam.terrascan.events;
+package org.sqteam.terrascan.events;
 
 import net.minecraft.Util;
 import net.minecraft.network.chat.TextComponent;

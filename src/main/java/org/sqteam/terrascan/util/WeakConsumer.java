@@ -1,4 +1,4 @@
-package sqteam.terrascan.util;
+package org.sqteam.terrascan.util;
 
 import java.lang.ref.WeakReference;
 import java.util.function.Consumer;

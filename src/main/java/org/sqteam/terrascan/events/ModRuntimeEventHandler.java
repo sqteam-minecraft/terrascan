@@ -1,4 +1,4 @@
-package sqteam.terrascan.events;
+package org.sqteam.terrascan.events;
 
 import net.minecraftforge.eventbus.api.Event;
 import net.minecraftforge.eventbus.api.IEventBus;
